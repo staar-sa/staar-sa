@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Si, mi nombre si es Estrella, voy en 6to sem de microbiologia en la UAQ...</p>
+<p align="left">Si, mi nombre si es Estrella, voy en 7mo sem de microbiologia en la UAQ...</p>
 
 ###
 
